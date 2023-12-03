@@ -13,7 +13,7 @@ This project delves into solving 4th-degree polynomial equations, which are cruc
 - **Language:** Python
 - **Binary Name:** 105torus
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The objective is to solve 4th degree equations of the form: a4x^4 + a3x^3 + a2x^2 + a1x^1 + a0 = 0, using iterative algorithms. The project focuses on three methods:
 
